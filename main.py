@@ -16,7 +16,7 @@ def update_presence():
                 'large_image': 'photoshoplogo',
                 'large_text': 'Photoshop',
                 'small_text': 'SP - Level 1',
-                'party_id': 'ae488379-351d-4a4f-ad32-2b9b01c91657',
+                'party_id': 'เติม party_id',
                 'party_size': [2, 6], 
             }
 
